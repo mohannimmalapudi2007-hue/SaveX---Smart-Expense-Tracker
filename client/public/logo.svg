@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Rounded Background -->
+  <rect width="48" height="48" rx="12" fill="#3978D4"/>
+  <!-- Wallet / Shield Accent Shape -->
+  <path d="M12 16C12 14.8954 12.8954 14 14 14H34C35.1046 14 36 14.8954 36 16V32C36 33.1046 35.1046 34 34 34H14C12.8954 34 12 33.1046 12 32V16Z" fill="#24476B" fill-opacity="0.3"/>
+  <!-- Growth Arrow / Dynamic X Shape -->
+  <path d="M16 32L24 24L32 32" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24 24L32 16M32 16H26M32 16V22" stroke="#DDF6E8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coin Accent Dot -->
+  <circle cx="24" cy="18" r="2.5" fill="#FFF0E3"/>
+</svg>

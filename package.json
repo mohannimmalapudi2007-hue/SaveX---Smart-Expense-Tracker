@@ -1,0 +1,26 @@
+{
+  "name": "savex",
+  "version": "1.0.0",
+  "description": "SaveX — Smart Expense Tracker. Full-stack personal finance and expense management platform.",
+  "scripts": {
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "test": "npm run test --prefix server",
+    "start": "npm run start --prefix server"
+  },
+  "keywords": [
+    "savex",
+    "expense-tracker",
+    "finance",
+    "budget",
+    "fintech"
+  ],
+  "author": "SaveX Team",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
