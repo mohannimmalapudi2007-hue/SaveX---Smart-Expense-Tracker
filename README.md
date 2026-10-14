@@ -358,8 +358,6 @@ All endpoints are versioned under `/api/v1` and protected with JWT Bearer authen
 |---|---|
 | Light fintech hero with live demo cards | Real-time KPI tiles and Recharts graphs |
 
-*(Add screenshots of your deployed instance by placing PNG files into `docs/screenshots/`)*
-
 ---
 
 ## 18. Known Limitations & Future Enhancements
